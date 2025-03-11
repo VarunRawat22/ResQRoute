@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+# ResQRoute
+>>>>>>> 844e0c0ea95fa92f78501f493ae89bbb9d500387
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
